@@ -1,2 +1,3 @@
 # C-terrer-ending
-HAre ends Programming language Fear 😜😜😜😜
+Here Ends Programming Fear 😜😜😜😜
+if you fear
