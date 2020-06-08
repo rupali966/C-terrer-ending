@@ -8,6 +8,7 @@ Part 1:
 6) EnumVariable Declaration
 7) StoarageClass Declaration
 -----------------------------------------------------------------------------------------------
+How to Execute Declaration Part in C 
 Part 2:
 1) Array Declaration
 2) String Declaration
