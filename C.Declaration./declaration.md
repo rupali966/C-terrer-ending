@@ -16,4 +16,4 @@ Part 2:
 4) Union Declaration
 5) Function Declaration
 6) Pointer Declaration
-7) Memory Declaration
+7) Memory Declaration('AllowCation')
