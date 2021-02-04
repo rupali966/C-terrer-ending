@@ -2,23 +2,23 @@
 using namespace std;
 
 
-float ratioOfDisplacement();
+float ratioOfTime();
 int main()
 {
   float calculate;
-  calculate = ratioOfDisplacement();
+  calculate = ratioOfTime();
   cout<<"\n---------------------"<<endl;
   cout << "Hare End the Program"<< endl;
 }
-float ratioOfDisplacement()
+float ratioOfTime()
 {
   float enterPoint, endPoint, ratio;
   cout << "Displasement Ratio" << endl;
-  cout << "Enter the Starting Point" << endl;
+  cout << "Enter the Starting Time" << endl;
   cin >> enterPoint;
-  cout << "Enter the End point" << endl;
+  cout << "Enter the Ending Time " << endl;
   cin >> endPoint;
-  cout << "Your Ratio is = " << endl;
+  cout << "Your Time Ratio is = " << endl;
   ratio = endPoint - enterPoint;
   cout << ratio;
   return ratio;
